@@ -1,0 +1,33 @@
+{
+  "name": "protractor_reporter",
+  "version": "1.0.0",
+  "description": "Protractor angular screenshot reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumaravelPonnusamy/protractor_reporter.git"
+  },
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "underscore": "~1.6.0",
+    "fs-symlink": "~1.2.1"
+  },
+  "keywords": [
+    "screenshot",
+    "selenium",
+    "protractor",
+    "jasmine",
+    "reporter",
+    "gruntplugin",
+    "protractor html report"
+  ],
+  "author": "Kumaravel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KumaravelPonnusamy/protractor_reporter/issues"
+  },
+  "homepage": "https://github.com/KumaravelPonnusamy/protractor_reporter#readme"
+}
